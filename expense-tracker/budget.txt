@@ -1,0 +1,2 @@
+Food	200
+Entertainment	100
