@@ -42,5 +42,5 @@ Below is a simple guide for using the system:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/library-management-system-2.git
+git clone https://github.com/mehmetozdemirmo/library-management-system-2.git
 
